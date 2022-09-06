@@ -6,6 +6,7 @@
 - data file format followed by qpic
 - hico dataset can be downloaded from [here](https://drive.google.com/open?id=1QZcJmGVlF9f4h-XLWe9Gkmnmj2z1gSnk)
 - vcoco dataset can be download from [here](https://github.com/s-gupta/v-coco)
+- our annotations of vcoco and hico can be downloaded from [vcoco](https://1drv.ms/u/s!ApoClY4Sak9xk3lUEA7H6SsmKtuQ?e=O6a4uF), [hico](https://1drv.ms/u/s!ApoClY4Sak9xk3pRFDerFG-TfZrN?e=IbCh2d)
 - Please refer to qpic for data preparation from [here](https://github.com/hitachi-rd-cv/qpic)
 
 ## Training
