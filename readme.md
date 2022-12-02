@@ -48,7 +48,7 @@ sh scripts/train_hico_50.sh
 ```
 
 ## Evalution
-
+Our Model pth can be downloaded at [model.pth](https://1drv.ms/u/s!ApoClY4Sak9xk3-E-v0WlALRfDj_?e=EdlTOB)
 ### vcoco
 
 1. generate pickle file by offical code
